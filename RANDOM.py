@@ -1,5 +1,5 @@
 import os, sys
 try:
-    __import__("xxsex").Rand()
+    __import__("sexxe").chk()
 except Exception as e:
     exit(str(e))
